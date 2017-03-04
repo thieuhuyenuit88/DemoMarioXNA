@@ -1,0 +1,703 @@
+E:\Development\Game Dev\Project\XNA\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.exe
+E:\Development\Game Dev\Project\XNA\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.pdb
+E:\Development\Game Dev\Project\XNA\FrameWork\FrameWork\FrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Development\Game Dev\Project\XNA\FrameWork\FrameWork\FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Development\Game Dev\Project\XNA\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.exe
+E:\Development\Game Dev\Project\XNA\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.pdb
+E:\Development\Game Dev\Project\XNA\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Flower.xnb
+E:\Development\Game Dev\Project\XNA\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\DANTRUONG\Desktop\temp\FrameWork\FrameWork\FrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DANTRUONG\Desktop\temp\FrameWork\FrameWork\FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\DANTRUONG\Desktop\temp\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.exe
+C:\Users\DANTRUONG\Desktop\temp\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.pdb
+C:\Users\DANTRUONG\Desktop\temp\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Flower.xnb
+C:\Users\DANTRUONG\Desktop\temp\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\DANTRUONG\Desktop\temp\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.exe
+C:\Users\DANTRUONG\Desktop\temp\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.pdb
+C:\Users\DANTRUONG\Desktop\temp\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\mario.xnb
+C:\Users\tuananh\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Flower.xnb
+C:\Users\tuananh\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\mario.xnb
+C:\Users\tuananh\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\tuananh\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.exe
+C:\Users\tuananh\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.pdb
+C:\Users\tuananh\Desktop\FrameWork\FrameWork\FrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tuananh\Desktop\FrameWork\FrameWork\FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tuananh\Desktop\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.exe
+C:\Users\tuananh\Desktop\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.pdb
+C:\Users\tuananh\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\brick.xnb
+C:\Users\tuananh\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fire.xnb
+C:\Users\tuananh\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fungi.xnb
+C:\Users\tuananh\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Lager.xnb
+C:\Users\tuananh\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioLager.xnb
+C:\Users\tuananh\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSmaller.xnb
+C:\Users\tuananh\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSuper.xnb
+C:\Users\tuananh\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Money.xnb
+C:\Users\tuananh\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Untitled-1.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Flower.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\brick.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fire.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fungi.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Lager.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioLager.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSmaller.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSuper.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.exe
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.pdb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.exe
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.pdb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Base.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Brick_Break.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Question.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pipe.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Base.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\brick.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Brick_Break.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fire.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Flower.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fungi.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Lager.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioLager.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSmaller.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSuper.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Question.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pipe.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.exe
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.pdb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.exe
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.pdb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\tittle.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Coin.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Base.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\brick.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Brick_Break.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fire.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Flower.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fungi.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Lager.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioLager.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSmaller.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSuper.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Question.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pipe.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\tittle.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Coin.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.exe
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.pdb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.exe
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.pdb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Back.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\circle1.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle2.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Base.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\brick.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Brick_Break.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fire.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Flower.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fungi.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Lager.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioLager.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSmaller.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSuper.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Question.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pipe.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\tittle.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Coin.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Back.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\circle1.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle2.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.exe
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.pdb
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.exe
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.pdb
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Base.xnb
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\brick.xnb
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Brick_Break.xnb
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fire.xnb
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Flower.xnb
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fungi.xnb
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Lager.xnb
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioLager.xnb
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSmaller.xnb
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSuper.xnb
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Question.xnb
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pipe.xnb
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\tittle.xnb
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Coin.xnb
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Back.xnb
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle.xnb
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\circle1.xnb
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle2.xnb
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.exe
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.pdb
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.exe
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.pdb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\tittle.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Coin.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Back.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\circle1.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle2.xnb
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Base.xnb
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\brick.xnb
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Brick_Break.xnb
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fire.xnb
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Flower.xnb
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fungi.xnb
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Lager.xnb
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioLager.xnb
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSmaller.xnb
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSuper.xnb
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Question.xnb
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pipe.xnb
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\tittle.xnb
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Coin.xnb
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Back.xnb
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle.xnb
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\circle1.xnb
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle2.xnb
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.exe
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.pdb
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.exe
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.pdb
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Base.xnb
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\brick.xnb
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Brick_Break.xnb
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fire.xnb
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Flower.xnb
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fungi.xnb
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Lager.xnb
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioLager.xnb
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSmaller.xnb
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSuper.xnb
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Question.xnb
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pipe.xnb
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\tittle.xnb
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Coin.xnb
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Back.xnb
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle.xnb
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\circle1.xnb
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle2.xnb
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.exe
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.pdb
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.exe
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.pdb
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Base.xnb
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\brick.xnb
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Brick_Break.xnb
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fire.xnb
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Flower.xnb
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fungi.xnb
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Lager.xnb
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioLager.xnb
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSmaller.xnb
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSuper.xnb
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Question.xnb
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pipe.xnb
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\tittle.xnb
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Coin.xnb
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Back.xnb
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle.xnb
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\circle1.xnb
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle2.xnb
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.exe
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.pdb
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.exe
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.pdb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Base.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\brick.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Brick_Break.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fire.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Flower.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fungi.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Lager.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioLager.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSmaller.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSuper.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Question.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pipe.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\tittle.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Coin.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Back.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\circle1.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle2.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.exe
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.pdb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.exe
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.pdb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Building.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Cloud.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Grass.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\icon.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MoutainSmall.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MoutanLager.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\fence.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pole.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\post.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Building (2).xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\MarioAudio.xgs
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\button.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Cursor.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\DialogLost.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\DialogWin.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\sound_icon.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Base.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\brick.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Brick_Break.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fire.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Flower.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fungi.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Lager.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioLager.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSmaller.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSuper.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Question.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pipe.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\tittle.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Coin.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Back.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\circle1.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle2.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Building.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Cloud.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Grass.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\icon.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MoutainSmall.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MoutanLager.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\fence.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pole.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\post.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Building (2).xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\button.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Cursor.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\DialogLost.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\DialogWin.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\sound_icon.xnb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\MarioAudio.xgs
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.exe
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.pdb
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.exe
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.pdb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Building.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Cloud.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Grass.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\icon.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MoutainSmall.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MoutanLager.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\fence.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pole.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\post.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Building (2).xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\button.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Cursor.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\DialogLost.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\DialogWin.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\sound_icon.xnb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\MarioAudio.xgs
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Base.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\brick.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Brick_Break.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fire.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Flower.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fungi.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Lager.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioLager.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSmaller.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSuper.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Question.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pipe.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\tittle.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Coin.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Back.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\circle1.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle2.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Building.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Cloud.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Grass.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\icon.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MoutainSmall.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MoutanLager.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\fence.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pole.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\post.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Building (2).xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\button.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Cursor.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\DialogLost.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\DialogWin.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Image\sound_icon.xnb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\MarioAudio.xgs
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\FrameWork.exe
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\bin\x86\Debug\FrameWork.pdb
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\obj\x86\Debug\FrameWork.exe
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWork\obj\x86\Debug\FrameWork.pdb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level1.txt
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level10.txt
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level2.txt
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level3.txt
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level4.txt
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level5.txt
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level6.txt
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level7.txt
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level8.txt
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level9.txt
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont2.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Base.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\brick.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Brick_Break.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fire.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Flower.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fungi.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Lager.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioLager.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSmaller.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSuper.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Question.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pipe.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\tittle.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Coin.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Back.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\circle1.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle2.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Building.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Cloud.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Grass.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\icon.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MoutainSmall.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MoutanLager.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\fence.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pole.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\post.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Building (2).xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\button.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Cursor.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\DialogLost.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\DialogWin.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\sound_icon.xnb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\MarioAudio.xgs
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level1.txt
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level10.txt
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level2.txt
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level3.txt
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level4.txt
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level5.txt
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level6.txt
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level7.txt
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level8.txt
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level9.txt
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.exe
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.pdb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\FrameWork\FrameWork\FrameWork\FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\FrameWork\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.exe
+E:\FrameWork\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.pdb
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.exe.manifest
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.application
+E:\FrameWork\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.exe.manifest
+E:\FrameWork\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.application
+E:\FrameWork\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\BackAbout.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.exe
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.pdb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Base.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\brick.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Brick_Break.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fire.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Flower.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fungi.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Lager.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioLager.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSmaller.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSuper.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Question.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pipe.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\tittle.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Coin.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Back.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\circle1.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle2.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\BackAbout.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Building.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Cloud.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Grass.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\icon.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MoutainSmall.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MoutanLager.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\fence.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pole.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\post.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Building (2).xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\button.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Cursor.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\DialogLost.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\DialogWin.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\sound_icon.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\MarioAudio.xgs
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level1.txt
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level10.txt
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level2.txt
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level3.txt
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level4.txt
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level5.txt
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level6.txt
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level7.txt
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level8.txt
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level9.txt
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.exe.manifest
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.application
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.exe
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.pdb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.exe.manifest
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.application
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\win_pole.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Boss.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\FireBoss.xnb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Blood.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.exe
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont2.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Base.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\brick.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Brick_Break.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fire.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Flower.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fungi.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Lager.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioLager.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSmaller.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSuper.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Question.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pipe.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\tittle.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Coin.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Back.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\circle1.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle2.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\BackAbout.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Building.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Cloud.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Grass.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\icon.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MoutainSmall.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MoutanLager.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\fence.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pole.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\post.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Building (2).xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\button.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Cursor.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\DialogLost.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\DialogWin.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\sound_icon.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\win_pole.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Boss.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\FireBoss.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Blood.xnb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\MarioAudio.xgs
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level1.txt
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level10.txt
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level2.txt
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level3.txt
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level4.txt
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level5.txt
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level6.txt
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level7.txt
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level8.txt
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level9.txt
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.exe.manifest
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.application
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.exe
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.pdb
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.exe.manifest
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.application
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.pdb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont2.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Base.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\brick.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Brick_Break.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fire.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Flower.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fungi.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Lager.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioLager.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSmaller.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSuper.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Question.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pipe.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\tittle.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Coin.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Back.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\circle1.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle2.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\BackAbout.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Building.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Cloud.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Grass.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\icon.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MoutainSmall.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MoutanLager.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\fence.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pole.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\post.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Building (2).xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\button.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Cursor.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\DialogLost.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\DialogWin.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\sound_icon.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\win_pole.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Boss.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\FireBoss.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Blood.xnb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\MarioAudio.xgs
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level1.txt
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level10.txt
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level2.txt
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level3.txt
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level4.txt
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level5.txt
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level6.txt
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level7.txt
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level8.txt
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level9.txt
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.exe.manifest
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.application
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.exe
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.pdb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.exe.manifest
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.application
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.exe
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.pdb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont2.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Base.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\brick.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Brick_Break.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fire.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Flower.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fungi.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Lager.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioLager.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSmaller.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSuper.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Question.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pipe.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\tittle.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Coin.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Back.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\circle1.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle2.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\BackAbout.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Building.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Cloud.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Grass.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\icon.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MoutainSmall.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MoutanLager.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\fence.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pole.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\post.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Building (2).xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\button.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Cursor.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\DialogLost.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\DialogWin.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\sound_icon.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\win_pole.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Boss.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\FireBoss.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Blood.xnb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\MarioAudio.xgs
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level1.txt
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level10.txt
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level2.txt
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level3.txt
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level4.txt
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level5.txt
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level6.txt
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level7.txt
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level8.txt
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Map\Level9.txt
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.exe.manifest
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.application
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.exe
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\FrameWork.pdb
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.exe.manifest
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.application
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.exe
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.pdb
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\obj\x86\Debug\FrameWork.csprojResolveAssemblyReference.cache

@@ -1,0 +1,25 @@
+E:\Development\Game Dev\Project\XNA\FrameWork\FrameWork\FrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DANTRUONG\Desktop\temp\FrameWork\FrameWork\FrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tuananh\Desktop\FrameWork\FrameWork\FrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DANTRUONG\Desktop\FrameWork\FrameWork\FrameWork\FrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\documents\Downloads\FrameWork (1)\FrameWork\FrameWork\FrameWork\FrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DANTRUONG\Desktop\Seminar\FrameWork\FrameWork\FrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\documents\Downloads\FrameWork\FrameWork\FrameWork\FrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ThanhTri\Desktop\FrameWorkFinal\FrameWork\FrameWork\FrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DANTRUONG\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWorkContent\obj\x86\Debug\Audio\MarioAudio.xml
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ThanhTri\Desktop\FrameWork_NEW\FrameWork\FrameWork\FrameWorkContent\obj\x86\Debug\Audio\MarioAudio.xml
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\FrameWork\FrameWorkContent\obj\x86\Debug\Audio\MarioAudio.xml
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DANTRUONG\Desktop\FrameWork295\FrameWork\FrameWorkContent\obj\x86\Debug\Audio\MarioAudio.xml
+E:\FrameWork\FrameWork\FrameWork\FrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\FrameWork\FrameWork\FrameWork\FrameWorkContent\obj\x86\Debug\Audio\MarioAudio.xml
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\FrameWork\FrameWorkContent\obj\x86\Debug\Audio\MarioAudio.xml
+E:\DOC and EXAM\XNA\mario and j2me\FrameWork\FrameWork\FrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XNA\mario and j2me\FrameWork\FrameWork\FrameWorkContent\obj\x86\Debug\FrameWorkContent.contentprojResolveAssemblyReference.cache

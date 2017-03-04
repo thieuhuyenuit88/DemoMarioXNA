@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2011-04-04T11:09:02+07:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2011-05-29T01:59:56+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Base.png</Source>
+      <Name>Image\Base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Base.xnb</Output>
+      <Time>2011-04-18T07:27:38+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\brick.png</Source>
+      <Name>Image\brick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\brick.xnb</Output>
+      <Time>2011-04-06T12:35:08+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Brick_Break.png</Source>
+      <Name>Image\Brick_Break</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Brick_Break.xnb</Output>
+      <Time>2011-04-06T12:44:36+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Fire.png</Source>
+      <Name>Image\Fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fire.xnb</Output>
+      <Time>2011-04-20T13:29:12+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Flower.png</Source>
+      <Name>Image\Flower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Flower.xnb</Output>
+      <Time>2011-04-18T06:30:16+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Fungi.png</Source>
+      <Name>Image\Fungi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Fungi.xnb</Output>
+      <Time>2011-04-01T12:43:16+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Lager.png</Source>
+      <Name>Image\Lager</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Lager.xnb</Output>
+      <Time>2011-04-06T12:47:58+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\MarioLager.png</Source>
+      <Name>Image\MarioLager</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioLager.xnb</Output>
+      <Time>2011-04-01T12:44:44+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\MarioSmaller.png</Source>
+      <Name>Image\MarioSmaller</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSmaller.xnb</Output>
+      <Time>2011-04-17T04:46:38+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\MarioSuper.png</Source>
+      <Name>Image\MarioSuper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MarioSuper.xnb</Output>
+      <Time>2011-04-01T12:45:02+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Question.png</Source>
+      <Name>Image\Question</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Question.xnb</Output>
+      <Time>2011-04-06T12:32:40+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\pipe.png</Source>
+      <Name>Image\pipe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pipe.xnb</Output>
+      <Time>2011-04-06T11:52:38+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\tittle.png</Source>
+      <Name>Image\tittle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\tittle.xnb</Output>
+      <Time>2011-04-08T12:30:14+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Coin.png</Source>
+      <Name>Image\Coin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Coin.xnb</Output>
+      <Time>2011-04-17T01:45:34+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Back.png</Source>
+      <Name>Image\Back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Back.xnb</Output>
+      <Time>2011-06-24T05:22:34+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Circle.png</Source>
+      <Name>Image\Circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle.xnb</Output>
+      <Time>2011-04-21T00:01:38+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\circle1.png</Source>
+      <Name>Image\circle1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\circle1.xnb</Output>
+      <Time>2011-06-24T04:38:52+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Circle2.png</Source>
+      <Name>Image\Circle2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Circle2.xnb</Output>
+      <Time>2011-06-24T04:44:40+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\BackAbout.png</Source>
+      <Name>Image\BackAbout</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\BackAbout.xnb</Output>
+      <Time>2011-06-24T10:15:14+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Building.png</Source>
+      <Name>Image\Building</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Building.xnb</Output>
+      <Time>2011-05-23T10:54:14+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Cloud.png</Source>
+      <Name>Image\Cloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Cloud.xnb</Output>
+      <Time>2011-05-23T10:54:14+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Grass.png</Source>
+      <Name>Image\Grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Grass.xnb</Output>
+      <Time>2011-05-23T10:54:14+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\icon.png</Source>
+      <Name>Image\icon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\icon.xnb</Output>
+      <Time>2011-05-23T10:54:14+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\MoutainSmall.png</Source>
+      <Name>Image\MoutainSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MoutainSmall.xnb</Output>
+      <Time>2011-05-23T10:54:14+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\MoutanLager.png</Source>
+      <Name>Image\MoutanLager</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\MoutanLager.xnb</Output>
+      <Time>2011-05-23T10:54:14+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\fence.png</Source>
+      <Name>Image\fence</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\fence.xnb</Output>
+      <Time>2011-05-23T12:25:20+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\pole.png</Source>
+      <Name>Image\pole</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\pole.xnb</Output>
+      <Time>2011-05-23T12:25:20+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\post.png</Source>
+      <Name>Image\post</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\post.xnb</Output>
+      <Time>2011-05-23T12:25:20+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Building (2).png</Source>
+      <Name>Image\Building (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Building (2).xnb</Output>
+      <Time>2011-05-23T21:56:40+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\button.png</Source>
+      <Name>Image\button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\button.xnb</Output>
+      <Time>2011-05-29T01:51:00+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Cursor.png</Source>
+      <Name>Image\Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Cursor.xnb</Output>
+      <Time>2011-05-29T01:51:00+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\DialogLost.png</Source>
+      <Name>Image\DialogLost</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\DialogLost.xnb</Output>
+      <Time>2011-05-29T01:51:00+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\DialogWin.png</Source>
+      <Name>Image\DialogWin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\DialogWin.xnb</Output>
+      <Time>2011-05-29T01:51:00+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\sound_icon.png</Source>
+      <Name>Image\sound_icon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\sound_icon.xnb</Output>
+      <Time>2011-05-29T01:51:00+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\win_pole.png</Source>
+      <Name>Image\win_pole</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\win_pole.xnb</Output>
+      <Time>2011-06-24T14:24:20+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Boss.png</Source>
+      <Name>Image\Boss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Boss.xnb</Output>
+      <Time>2011-06-26T10:17:18+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\FireBoss.png</Source>
+      <Name>Image\FireBoss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\FireBoss.xnb</Output>
+      <Time>2011-06-26T13:35:10+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Blood.png</Source>
+      <Name>Image\Blood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\Image\Blood.xnb</Output>
+      <Time>2011-06-27T04:36:00+07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWorkContent\</RootDirectory>
+      <LoggerRootDirectory>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWorkContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWork\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-08-02T10:56:53.7151877+07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
